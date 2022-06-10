@@ -1,1 +1,2 @@
 Git is awesome tool
+Git is fast
